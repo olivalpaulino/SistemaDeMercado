@@ -1,0 +1,16 @@
+santa clara,3.59,alimentos
+nescafe,3.69,alimentos
+sabonete1,2.69,higiene1
+sabonete2,3.69,higiene1
+desinfetante x,7.99,higiene2
+agua sanitaria,9.55,higiene2
+Moster de Maçã Verde,9.99,alimentos
+Colgate,9.9,higiene1
+santa clara,3.59,alimentos
+nescafe,3.69,alimentos
+sabonete1,2.69,higiene1
+sabonete2,3.69,higiene1
+desinfetante x,7.99,higiene2
+agua sanitaria,9.55,higiene2
+Moster de Maçã Verde,9.99,alimentos
+Colgate,9.9,higiene1
